@@ -15,7 +15,7 @@ build/*
 *.xccheckout
 *.xcscmblueprint
 *.xcodeproj
-*.xcworkspace
+xcuserdata/
 
 # Scripts
 logs
