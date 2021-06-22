@@ -1,9 +1,0 @@
-name: Shinchoku
-options:
-  bundleIdPrefix: cloud.mokumoku
-targets:
-  Shinchoku:
-    settings:
-      INFOPLIST_FILE: ../App/iOS/Info.plist
-    type: application
-    platform: iOS

@@ -1,3 +1,3 @@
-# Bootstrap
+# Shinchoku
 
 A description of this package.

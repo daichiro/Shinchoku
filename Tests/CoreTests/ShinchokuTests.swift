@@ -1,11 +1,11 @@
     import XCTest
-    @testable import Bootstrap
+    @testable import Core
 
-    final class BootstrapTests: XCTestCase {
+    final class ShinchokuTests: XCTestCase {
         func testExample() {
             // This is an example of a functional test case.
             // Use XCTAssert and related functions to verify your tests produce the correct
             // results.
-            XCTAssertEqual(Bootstrap().text, "Hello, World!")
+            XCTAssertEqual(Shinchoku.text, "Hello, World!")
         }
     }

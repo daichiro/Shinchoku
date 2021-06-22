@@ -14,7 +14,7 @@ build/*
 *.moved-aside
 *.xccheckout
 *.xcscmblueprint
-*.xcodeproj
+/*.xcodeproj
 xcuserdata/
 
 # Scripts
@@ -26,6 +26,8 @@ metrics-artifacts
 .swiftpm
 .build
 Tools/bin
+/Packages
+Package.resolved
 
 # bundler
 vendor

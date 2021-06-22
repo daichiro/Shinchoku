@@ -6,10 +6,13 @@
 //
 
 import SwiftUI
+import Core
 
-struct ContentView: View {
-    var body: some View {
-        Text("Hello, world!")
+public struct ContentView: View {
+    public init() {}
+    
+    public var body: some View {
+        Text(Shinchoku.text)
             .padding()
     }
 }
